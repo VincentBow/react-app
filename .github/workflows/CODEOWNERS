@@ -1,0 +1,4 @@
+* @VincentBow
+*.js @VincentBow
+*.yml @VincentBow
+/public/ @VincentBow
