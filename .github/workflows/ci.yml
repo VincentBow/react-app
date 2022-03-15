@@ -28,5 +28,5 @@ jobs:
         run: npx surge  --project ./build --domain attractive-profit.surge.sh
 
         env:
-          SURGE_LOGIN: ${{ secrets.SURGE_LGOIN}}
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN}}
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN}}
